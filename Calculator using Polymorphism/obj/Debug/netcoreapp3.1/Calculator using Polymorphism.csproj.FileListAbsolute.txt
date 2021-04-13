@@ -1,0 +1,13 @@
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.exe
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.deps.json
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.runtimeconfig.json
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.runtimeconfig.dev.json
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.dll
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\bin\Debug\netcoreapp3.1\Calculator using Polymorphism.pdb
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.csprojAssemblyReference.cache
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.AssemblyInfo.cs
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.dll
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.pdb
+C:\Users\Lit Shah\source\repos\Calculator using Polymorphism\Calculator using Polymorphism\obj\Debug\netcoreapp3.1\Calculator using Polymorphism.genruntimeconfig.cache
